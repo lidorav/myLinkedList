@@ -36,6 +36,7 @@ public class Point {
 
     @Override
     public String toString() {
+        //lidor you are fucking crazyyyyyyyyyyyyyyyyyyyyyyyy
         return "Point{" +
                 "x=" + x +
                 ", y=" + y +
