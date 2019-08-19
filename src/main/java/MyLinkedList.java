@@ -90,6 +90,7 @@ public class MyLinkedList<T> implements I_MyLinkedList<T>{
             before.next = null;
             tail.prev = null;
         }
+        //knui
         else {
             Link before=getLink(index-1);
             Link after=getLink(index+1);
